@@ -1,0 +1,32 @@
+1001		MENU PRINCIPAL
+1002Ajouter une inscription
+1003Supprimer une inscription
+1004Deplacer une inscription (d'un shift a un autre)
+1005Imprimer les doublettes par shift
+1006Imprimer doublettes par categorie
+1007Quitter
+2001Date du shift choisi (format AAAAMMJJ) :
+2002Heure du shift choisi (format HHMM) :
+2003Numero de matricule :
+3001Choix :
+4001 DATE     : HEURE
+4002MATRICULE 1 : MATRICULE 2
+4003	CATEGORIE |
+4004	MATRICULE |          NOM      PRENOM |
+4005DATE     | HEURE | PLACES LIBRES
+4006MATRICULE |       NOM       PRENOM   | MOYENNE
+4007          NOM      PRENOM
+4008Pas d'inscriptions dans ce shift !
+4009Pas d'inscrits pour cette categorie !
+5001Pas d'erreur !
+5002Erreur d'ouverture du fichier shift !
+5003Erreur d'ouverture du fichier membre !
+5004Erreur d'ouverture du fichier inscription !
+5005Erreur, plus de place memoire !
+5006Erreur, plus de place pour ce shift !
+5007Ce choix n'est pas disponible !
+5008Ce shift n'existe pas !
+5009Membre inconnu...
+5010Ce membre est inscrit dans une autre doublette !
+5011La doublette que vous avez choisi n'existe pas dans les shifts!
+5012Erreur, choisissez deux matricules differentes !

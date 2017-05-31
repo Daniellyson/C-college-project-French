@@ -1,0 +1,32 @@
+1001		   MAIN MENU
+1002 Add an inscription
+1003 Delete an inscription
+1004 Replace an inscription to another shift
+1005 Print the doubles per shift
+1006 Print doubles per category
+1007 Exit
+2001Date chosen for the shift (format AAAAMMJJ) :
+2002Hour chosen for the shift (format HHMM) :
+2003Registration number :
+3001Choice :
+4001 DATE     : HOUR
+4002REGISTRATION 1 : REGISTRATION 2
+4003	CATEGORY  |
+4004	REGIST. N |      SURNAME        NAME |
+4005DATE     | HOUR  | Available places
+4006REGIST. N | SURNAME      NAME        | AVERAGE
+4007      SURNAME        NAME
+4008No inscription in this shift !
+4009No inscriptions for this category !
+5001No error !
+5002Error while opening the shift file !
+5003Error while opening the member file !
+5004Error while opening the inscription file !
+5005Error, no more memory !
+5006Error, no more place for this shift !
+5007This choice is not available !
+5008This shift does not exist !
+5009Member unknown...
+5010This member is enrolled in another doubles !
+5011The doubles which you chose does not exist in the shifts!
+5012Error, choise two differents players !
